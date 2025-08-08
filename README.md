@@ -22,7 +22,8 @@ uv sync
 ```
 
 ## Running the Pipeline
-```python -m src.main
+```
+python -m src.main
 ```
 
 This should run the entire pipeline and generate the report. Please let me know if you have any questions.
